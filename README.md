@@ -2,7 +2,7 @@
 
 A Python command-line tool for editing the clues of `.puz` format crosswords.
 
-Requires [puzpy](https://github.com/alexdej/puzpy) by Alex Dejarnatt. (`pip install puzpy`)
+It needs Python 3.6 or higher, and [puzpy](https://github.com/alexdej/puzpy) by Alex Dejarnatt. (`pip install puzpy`)
 
 ## Usage
 
